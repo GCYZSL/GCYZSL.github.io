@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2021-10-10
 venue: 'ICCV'
+citation: 'Xu Yang*, <b>Chongyang Gao*</b>, Hanwang Zhang, and Jianfei Cai. <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021, pp. 2197-2207</i>.'
 ---
 
 ## Abstract
