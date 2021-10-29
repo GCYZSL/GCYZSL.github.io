@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chongyang Gao"
-  avatar           : "/images/portfolio.jpg"
+  avatar           : "portfolio.jpg"
   bio              : "CS PhD"
   location         : "Evanston"
   employer         :
