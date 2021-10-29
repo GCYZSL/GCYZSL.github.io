@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Chongyang Gao"
-  avatar           : "prof.jpg"
+  avatar           : "portfolio.jpg"
   bio              : "CS PhD"
-  location         : ""
+  location         : "Evanston"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=HEAgatAAAAAJ"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : #""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          :
   vine             :
   weibo            :
   xing             :
