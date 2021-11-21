@@ -14,13 +14,9 @@ I am a PhD student at Northwestern
 
 Publications
 (------)
-title: "Auto-Parsing Network for Image Captioning and Visual Question Answering"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-date: 2021-10-10
-venue: 'ICCV'
-citation: 'Xu Yang*, <b>Chongyang Gao*</b>, Hanwang Zhang, and Jianfei Cai. <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021, pp. 2197-2207</i>.'
+"Auto-Parsing Network for Image Captioning and Visual Question Answering", 'Xu Yang\*, **Chongyang Gao\* **, Hanwang Zhang, and Jianfei Cai. <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021, pp. 2197-2207
 
+{% comment %} 
 [comment]: <> (Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown &#40;.md&#41;, YAML &#40;.yml&#41;, HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages]&#40;https://pages.github.com/&#41; service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.)
 
 [comment]: <> (Many of the features of dynamic content management systems &#40;like Wordpress&#41; can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one]&#40;https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb&#41; that analyzes metadata in pages about talks to display [a map of every location you've given a talk]&#40;https://academicpages.github.io/talkmap.html&#41;.)
@@ -74,3 +70,4 @@ citation: 'Xu Yang*, <b>Chongyang Gao*</b>, Hanwang Zhang, and Jianfei Cai. <i>P
 [comment]: <> (------)
 
 [comment]: <> (More info about configuring academicpages can be found in [the guide]&#40;https://academicpages.github.io/markdown/&#41;. The [guides for the Minimal Mistakes theme]&#40;https://mmistakes.github.io/minimal-mistakes/docs/configuration/&#41; &#40;which this theme was forked from&#41; might also be helpful.)
+{% endcomment %}
