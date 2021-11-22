@@ -16,7 +16,7 @@ Publications
 
 1. "Auto-Parsing Network for Image Captioning and Visual Question Answering", Xu Yang\*, **Chongyang Gao\***, Hanwang Zhang, and Jianfei Cai. <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021, pp. 2197-2207;
 
-2. 
+2. "Embedding heterogeneous networks into hyperbolic space without meta-path", Wang, Lili, **Chongyang Gao**, Chenghan Huang, Ruibo Liu, Weicheng Ma, and Soroush Vosoughi. <i>In Proceedings of the AAAI conference on artificial intelligence. 2021
 
 
 {% comment %} 
