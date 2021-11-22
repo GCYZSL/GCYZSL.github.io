@@ -14,7 +14,9 @@ I am a PhD student at Northwestern
 Publications
 ------
 
-"Auto-Parsing Network for Image Captioning and Visual Question Answering", 'Xu Yang\*, **Chongyang Gao\***, Hanwang Zhang, and Jianfei Cai. <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021, pp. 2197-2207
+1. "Auto-Parsing Network for Image Captioning and Visual Question Answering", Xu Yang\*, **Chongyang Gao\***, Hanwang Zhang, and Jianfei Cai. <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021, pp. 2197-2207;
+
+2. 
 
 
 {% comment %} 
