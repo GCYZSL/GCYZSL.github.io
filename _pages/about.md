@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a new Ph.D. student supervised by Prof. VS. I got my Bachelor's degree from Tianjin University and master's degree from Dartmouth College. I was a visiting student at NTU supervised by Prof. Jianfei Cai. I am interested in computer vision, NLP, V-L Tasks, and multimodal data processing.
+I am a new Ph.D. student supervised by [Prof. V.S. Subrahmanian]&#40;https://vssubrah.github.io/&#41;. I got my Bachelor's degree from Tianjin University and master's degree from Dartmouth College, supervised by Prof. Soroush Vosoughi. I was a visiting student at NTU supervised by Prof. Jianfei Cai. I am interested in computer vision, NLP, V-L Tasks, and multimodal data processing.
 
 
 Publications
