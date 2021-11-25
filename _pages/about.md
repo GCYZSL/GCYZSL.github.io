@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Northwestern
+I am a new Ph.D. student supervised by Prof. VS. I got my Bachelor's degree from Tianjin University and master's degree from Dartmouth College. I was a visiting student at NTU supervised by Prof. Jianfei Cai. I am interested in computer vision, NLP, V-L Tasks, and multimodal data processing.
 
 
 Publications
