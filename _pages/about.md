@@ -13,9 +13,9 @@ I am first-year Ph.D. student supervised by [Prof. V.S. Subrahmanian](https://vs
 Publications
 ------
 * "Embedding Hallucination for Few-Shot Language Fine-tuning", Yiren Jian\*, **Chongyang Gao\***, Soroush Vosoughi. <i>NAACL 2022.
-* "Contrastive Learning for Prompt-Based Few-Shot Language Learners", Yiren Jian, **Chongyang Gao\***, Soroush Vosoughi. <i>NAACL 2022.
-* "Non-Parallel Text Style Transfer with Self-Parallel Supervision", Ruibo Liu, **Chongyang Gao\***, Chenyan Jia, Guangxuan Xu, Soroush Vosoughi. <i>ICLR 2022.
-* "Knowledge Infused Decoding", Ruibo Liu, Guoqing Zheng, Shashank Gupta, Radhika Gaonkar, **Chongyang Gao\***, Soroush Vosoughi, Milad Shokouhi, Ahmed Hassan Awadallah.  <i>ICLR 2022.
+* "Contrastive Learning for Prompt-Based Few-Shot Language Learners", Yiren Jian, **Chongyang Gao**, Soroush Vosoughi. <i>NAACL 2022.
+* "Non-Parallel Text Style Transfer with Self-Parallel Supervision", Ruibo Liu, **Chongyang Gao**, Chenyan Jia, Guangxuan Xu, Soroush Vosoughi. <i>ICLR 2022.
+* "Knowledge Infused Decoding", Ruibo Liu, Guoqing Zheng, Shashank Gupta, Radhika Gaonkar, **Chongyang Gao**, Soroush Vosoughi, Milad Shokouhi, Ahmed Hassan Awadallah.  <i>ICLR 2022.
 * "MetaPix: Domain transfer for semantic segmentation by meta pixel weighting", Yiren Jian\*, **Chongyang Gao\***. <i>Image and Vision Computing 2021.
 * "Auto-Parsing Network for Image Captioning and Visual Question Answering", Xu Yang\*, **Chongyang Gao\***, Hanwang Zhang, and Jianfei Cai. <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021.
 * "Embedding heterogeneous networks into hyperbolic space without meta-path", Wang, Lili, **Chongyang Gao**, Chenghan Huang, Ruibo Liu, Weicheng Ma, and Soroush Vosoughi. <i>In Proceedings of the AAAI conference on artificial intelligence 2021.
