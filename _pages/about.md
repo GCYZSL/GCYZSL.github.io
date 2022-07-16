@@ -8,18 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a new Ph.D. student supervised by [Prof. V.S. Subrahmanian](https://vssubrah.github.io/). I got my Bachelor's degree from Tianjin University and master's degree from Dartmouth College, supervised by Prof. Soroush Vosoughi. I was a visiting student at NTU supervised by Prof. Jianfei Cai. I am interested in computer vision, NLP, V-L Tasks, and multimodal data processing.
+I am first-year Ph.D. student supervised by [Prof. V.S. Subrahmanian](https://vssubrah.github.io/). I got my Bachelor's degree from Tianjin University and master's degree from Dartmouth College, supervised by Prof. Soroush Vosoughi. I was a visiting student at NTU supervised by Prof. Jianfei Cai. I am interested in computer vision, NLP, V-L Tasks, and multimodal data processing.
 
 Publications
 ------
+* "Embedding Hallucination for Few-Shot Language Fine-tuning", Yiren Jian\*, **Chongyang Gao\***, Soroush Vosoughi. <i>NAACL 2022.
+* "Contrastive Learning for Prompt-Based Few-Shot Language Learners", Yiren Jian, **Chongyang Gao\***, Soroush Vosoughi. <i>NAACL 2022.
+* "Non-Parallel Text Style Transfer with Self-Parallel Supervision", Ruibo Liu, **Chongyang Gao\***, Chenyan Jia, Guangxuan Xu, Soroush Vosoughi. <i>ICLR 2022.
+* "Knowledge Infused Decoding", Ruibo Liu, Guoqing Zheng, Shashank Gupta, Radhika Gaonkar, **Chongyang Gao\***, Soroush Vosoughi, Milad Shokouhi, Ahmed Hassan Awadallah.  <i>ICLR 2022.
+* "MetaPix: Domain transfer for semantic segmentation by meta pixel weighting", Yiren Jian\*, **Chongyang Gao\***. <i>Image and Vision Computing 2021.
+* "Auto-Parsing Network for Image Captioning and Visual Question Answering", Xu Yang\*, **Chongyang Gao\***, Hanwang Zhang, and Jianfei Cai. <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021.
+* "Embedding heterogeneous networks into hyperbolic space without meta-path", Wang, Lili, **Chongyang Gao**, Chenghan Huang, Ruibo Liu, Weicheng Ma, and Soroush Vosoughi. <i>In Proceedings of the AAAI conference on artificial intelligence 2021.
+* "Hierarchical Scene Graph Encoder-Decoder for Image Paragraph Captioning", Xu Yang\*, **Chongyang Gao\***, Hanwang Zhang, Jianfei Cai, <i>Proceedings of the 28th ACM International Conference on Multimedia 2020.
+* "An Empirical Survey of Unsupervised Text Representation Methods on Twitter Data", Lili Wang, **Chongyang Gao**, Jason Wei, Weicheng Ma, Ruibo Liu, Soroush Vosoughi. <i>Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020).
 
-1. "Auto-Parsing Network for Image Captioning and Visual Question Answering", Xu Yang\*, **Chongyang Gao\***, Hanwang Zhang, and Jianfei Cai. <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021, pp. 2197-2207;
+* "Sequence in sequence for video captioning", Huiyun Wang, **Chongyang Gao**, Yahong Han, Pattern Recognition Letters 2020.
 
-2. "Embedding heterogeneous networks into hyperbolic space without meta-path", Wang, Lili, **Chongyang Gao**, Chenghan Huang, Ruibo Liu, Weicheng Ma, and Soroush Vosoughi. <i>In Proceedings of the AAAI conference on artificial intelligence. 2021
 
 Services
 ------
-Reviewer for NeurIPS 2022.
+Reviewer for NeurIPS 2022, EMNLP2022, WACV 2022.
 
 {% comment %} 
 (This is the front page of a website that is powered by the [academicpages template]&#40;https://github.com/academicpages/academicpages.github.io&#41; and hosted on GitHub pages. [GitHub pages]&#40;https://pages.github.com&#41; is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme]&#40;https://mmistakes.github.io/minimal-mistakes/&#41; created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository]&#40;https://github.com/academicpages/academicpages.github.io&#41; right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com]&#40;http://stuartgeiger.com&#41;, which uses [this Github repository]&#40;https://github.com/staeiou/staeiou.github.io&#41;.)
