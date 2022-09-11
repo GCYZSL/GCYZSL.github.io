@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f02a8b35-a463-4ba3-a70c-c5a6e13d098d" name="Changes" comment="A">
+    <list default="true" id="f02a8b35-a463-4ba3-a70c-c5a6e13d098d" name="Changes" comment="B">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
     </list>
@@ -23,6 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,7 +40,9 @@
       <workItem from="1637618285590" duration="592000" />
       <workItem from="1637879874453" duration="1948000" />
       <workItem from="1648837289413" duration="484000" />
-      <workItem from="1657981966468" duration="7076000" />
+      <workItem from="1657981966468" duration="7690000" />
+      <workItem from="1660669270890" duration="742000" />
+      <workItem from="1662915315341" duration="809000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1637359274136</created>
@@ -160,7 +163,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658004044692</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="B">
+      <created>1658158708926</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1658158708926</updated>
+    </task>
+    <task id="LOCAL-00019" summary="B">
+      <created>1660669405487</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1660669405487</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +204,7 @@
     <MESSAGE value="today happy" />
     <MESSAGE value="1" />
     <MESSAGE value="A" />
-    <option name="LAST_COMMIT_MESSAGE" value="A" />
+    <MESSAGE value="B" />
+    <option name="LAST_COMMIT_MESSAGE" value="B" />
   </component>
 </project>
