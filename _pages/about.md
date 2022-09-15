@@ -12,6 +12,7 @@ I am a Ph.D. student supervised by [Prof. V.S. Subrahmanian](https://vssubrah.gi
 
 Publications
 ------
+* "Non-Linguistic Supervision for Contrastive Learning of Sentence Embeddings", Yiren Jian\*, **Chongyang Gao\***, Soroush Vosoughi. <i>NeurIPS 2022.
 * "Embedding Hallucination for Few-Shot Language Fine-tuning", Yiren Jian\*, **Chongyang Gao\***, Soroush Vosoughi. <i>NAACL 2022.
 * "Contrastive Learning for Prompt-Based Few-Shot Language Learners", Yiren Jian, **Chongyang Gao**, Soroush Vosoughi. <i>NAACL 2022.
 * "Non-Parallel Text Style Transfer with Self-Parallel Supervision", Ruibo Liu, **Chongyang Gao**, Chenyan Jia, Guangxuan Xu, Soroush Vosoughi. <i>ICLR 2022.
