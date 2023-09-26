@@ -12,7 +12,7 @@ I am a Ph.D. student at Northwestern University supervised by [Prof. V.S. Subrah
 
 Publications
 ------
-* "Bootstrapping Vision-Language Learning with Decoupled Language Pre-training", Yiren Jian, **Chongyang Gao**, Soroush Vosoughi. <i>NeurIPS 2023 ![#f03c15]((Spotlight)).
+* "Bootstrapping Vision-Language Learning with Decoupled Language Pre-training", Yiren Jian, **Chongyang Gao**, Soroush Vosoughi. <i>NeurIPS 2023 {\color{red}Spotlight}.
 * "Non-Linguistic Supervision for Contrastive Learning of Sentence Embeddings", Yiren Jian\*, **Chongyang Gao\***, Soroush Vosoughi. <i>NeurIPS 2022.
 * "Embedding Hallucination for Few-Shot Language Fine-tuning", Yiren Jian\*, **Chongyang Gao\***, Soroush Vosoughi. <i>NAACL 2022.
 * "Contrastive Learning for Prompt-Based Few-Shot Language Learners", Yiren Jian, **Chongyang Gao**, Soroush Vosoughi. <i>NAACL 2022.
@@ -28,7 +28,7 @@ Publications
 
 Services
 ------
-Reviewer for ACL 2023, ICML 2023, NeurIPS 2022, EMNLP2022, WACV 2023, IEEE TCSVT, IEEE Multimedia.
+Reviewer for ICLR, AAAI, ACL, ICML, NeurIPS, EMNLP, WACV, IEEE TCSVT, IEEE Multimedia.
 
 {% comment %} 
 (This is the front page of a website that is powered by the [academicpages template]&#40;https://github.com/academicpages/academicpages.github.io&#41; and hosted on GitHub pages. [GitHub pages]&#40;https://pages.github.com&#41; is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme]&#40;https://mmistakes.github.io/minimal-mistakes/&#41; created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository]&#40;https://github.com/academicpages/academicpages.github.io&#41; right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com]&#40;http://stuartgeiger.com&#41;, which uses [this Github repository]&#40;https://github.com/staeiou/staeiou.github.io&#41;.)
