@@ -12,7 +12,7 @@ I am a Ph.D. student at Northwestern University supervised by [Prof. V.S. Subrah
 
 Publications
 ------
-* "Bootstrapping Vision-Language Learning with Decoupled Language Pre-training", Yiren Jian, **Chongyang Gao**, Soroush Vosoughi. <i>NeurIPS 2023 $${\color{red}Spotlight}$$.
+* "Bootstrapping Vision-Language Learning with Decoupled Language Pre-training", Yiren Jian, **Chongyang Gao**, Soroush Vosoughi. <i>NeurIPS 2023 $$\color{red}{Spotlight}$$.
 * "Non-Linguistic Supervision for Contrastive Learning of Sentence Embeddings", Yiren Jian\*, **Chongyang Gao\***, Soroush Vosoughi. <i>NeurIPS 2022.
 * "Embedding Hallucination for Few-Shot Language Fine-tuning", Yiren Jian\*, **Chongyang Gao\***, Soroush Vosoughi. <i>NAACL 2022.
 * "Contrastive Learning for Prompt-Based Few-Shot Language Learners", Yiren Jian, **Chongyang Gao**, Soroush Vosoughi. <i>NAACL 2022.
