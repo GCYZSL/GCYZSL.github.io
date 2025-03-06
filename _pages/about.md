@@ -12,7 +12,7 @@ I am a Ph.D. student at Northwestern University supervised by [Prof. V.S. Subrah
 
 Publications
 ------
-* "On Large Language Model Continual Unlearning", **Chongyang Gao**,  Lixu Wang, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu. <i>ICLR 2025.
+* "On Large Language Model Continual Unlearning", **Chongyang Gao\***,  Lixu Wang\*, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu. <i>ICLR 2025.
 * "MoLA: MoE LoRA with Layer-wise Expert Allocation", **Chongyang Gao**, Kezhen Chen, Jinmeng Rao, Ruibo Liu, Baochen Sun, Yawen Zhang, Daiyi Peng, Xiaoyuan Guo, VS Subrahmanian. <i>NAACL 2025 (Findings).
 * "GEM: Generating Engaging Multimodal Content", **Chongyang Gao**, Yiren Jian, Natalia Denisenko, Soroush Vosoughi, VS Subrahmanian. <i>IJCAI 2024.
 * "FakeDB: Generating Fake Synthetic Databases", **Chongyang Gao**, Sushil Jajodia, Andrea Pugliese, VS Subrahmanian. <i>IEEE Transactions on Dependable and Secure Computing.
