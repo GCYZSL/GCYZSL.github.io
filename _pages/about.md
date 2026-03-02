@@ -13,9 +13,9 @@ Here is my [Curriculum Vitae (CV)](/_data/Chongyang_Gao.pdf).
 
 Publications
 ------
-* "Classroom Final Exam: An Instructor-Tested Reasoning Benchmark", **Chongyang Gao\**,  Diji Yang, Shuyan Zhou, Xichen Yan, Luchuan Song, Shuo Li, Kezhen Chen. <i>Preprint.
-* "Context and Transcripts Improve Detection of Deepfake Audios of Public Figures", **Chongyang Gao\**,  Marco Postiglione, Julian Baldwin, Natalia Denisenko, Isabel Gortner, Luke Fosdick, Chiara Pulice, Sarit Kraus, VS Subrahmanian. <i>Preprint.
-* "Perturbed Public Voices (PV): A Dataset for Robust Audio Deepfake Detection", **Chongyang Gao\**, Marco Postiglione, Isabel Gortner, Sarit Kraus, V.S. Subrahmanian. <i>Preprint.
+* "Classroom Final Exam: An Instructor-Tested Reasoning Benchmark", **Chongyang Gao**,  Diji Yang, Shuyan Zhou, Xichen Yan, Luchuan Song, Shuo Li, Kezhen Chen. <i>Preprint.
+* "Context and Transcripts Improve Detection of Deepfake Audios of Public Figures", **Chongyang Gao**,  Marco Postiglione, Julian Baldwin, Natalia Denisenko, Isabel Gortner, Luke Fosdick, Chiara Pulice, Sarit Kraus, VS Subrahmanian. <i>Preprint.
+* "Perturbed Public Voices (PV): A Dataset for Robust Audio Deepfake Detection", **Chongyang Gao**, Marco Postiglione, Isabel Gortner, Sarit Kraus, V.S. Subrahmanian. <i>Preprint.
 * "On Large Language Model Continual Unlearning", **Chongyang Gao\***,  Lixu Wang\*, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu. <i>ICLR 2025.
 * "MoLA: MoE LoRA with Layer-wise Expert Allocation", **Chongyang Gao**, Kezhen Chen, Jinmeng Rao, Ruibo Liu, Baochen Sun, Yawen Zhang, Daiyi Peng, Xiaoyuan Guo, VS Subrahmanian. <i>NAACL 2025 (Findings).
 * "GEM: Generating Engaging Multimodal Content", **Chongyang Gao**, Yiren Jian, Natalia Denisenko, Soroush Vosoughi, VS Subrahmanian. <i>IJCAI 2024.
