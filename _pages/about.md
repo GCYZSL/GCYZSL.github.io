@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D. student at Northwestern University supervised by [Prof. V.S. Subrahmanian](https://vssubrah.github.io/). I received my Bachelor's degree from Tianjin University and master's degree from Dartmouth College, supervised by Prof. Soroush Vosoughi. I was a visiting student at NTU supervised by Prof. Jianfei Cai. I am interested in computer vision, NLP, V-L Tasks, and multimodal data processing. 
-Here is my [Curriculum Vitae (CV)](/_data/Chongyang_Gao.pdf).
+Here is my [Curriculum Vitae (CV)](/assets/Chongyang_Gao_CV.pdf).
 
 Publications
 ------
