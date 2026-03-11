@@ -18,6 +18,7 @@ Publications
 * "Perturbed Public Voices (PV): A Dataset for Robust Audio Deepfake Detection", **Chongyang Gao**, Marco Postiglione, Isabel Gortner, Sarit Kraus, V.S. Subrahmanian. <i>Preprint.
 * "On Large Language Model Continual Unlearning", **Chongyang Gao\***,  Lixu Wang\*, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu. <i>ICLR 2025.
 * "MoLA: MoE LoRA with Layer-wise Expert Allocation", **Chongyang Gao**, Kezhen Chen, Jinmeng Rao, Ruibo Liu, Baochen Sun, Yawen Zhang, Daiyi Peng, Xiaoyuan Guo, VS Subrahmanian. <i>NAACL 2025 (Findings).
+* "Assessing and Mitigating Medical Knowledge Drift and Conflicts in Large Language Models", Weiyi Wu, Xinwen Xu, **Chongyang Gao**, Xingjian Diao, Siting Li, Lucas A. Salas, Jiang Gu. <i>EMNLP 2025 (Findings).
 * "GEM: Generating Engaging Multimodal Content", **Chongyang Gao**, Yiren Jian, Natalia Denisenko, Soroush Vosoughi, VS Subrahmanian. <i>IJCAI 2024.
 * "FakeDB: Generating Fake Synthetic Databases", **Chongyang Gao**, Sushil Jajodia, Andrea Pugliese, VS Subrahmanian. <i>IEEE Transactions on Dependable and Secure Computing.
 * "Bootstrapping Vision-Language Learning with Decoupled Language Pre-training", Yiren Jian, **Chongyang Gao**, Soroush Vosoughi. <i>NeurIPS 2023 $$\color{red}{Spotlight}$$.
