@@ -174,3 +174,9 @@ $accent-soft                : mix(#fff, $accent-color, 90%);
     fill: $github-color;
   }
 }
+
+/* name */
+.page__title,
+.author__name {
+  color: #000;
+}
