@@ -22,7 +22,7 @@ Industry Experience
   <li><span>Research Scientist Intern, <b>Adobe Research</b></span><span class="exp-date">Mar. 2023 – Jun. 2023</span></li>
 </ul>
 
-Publications
+Selected Publications
 ------
 <p class="list-note">* equal contribution</p>
 <ul class="pub-list">
