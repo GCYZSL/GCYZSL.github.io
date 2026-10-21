@@ -164,7 +164,7 @@ Mentoring
   </li>
   <li>
     <span class="pub-title">Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models</span>
-    <span class="pub-authors">Shuyi Fan, Boyuan Deng, Mengyu Xu, Jiale Liu, Hongyang Zhang, Qiaoxin Yang, <b>Chongyang Gao†</b></span>
+    <span class="pub-authors">Shuyi Fan*, Boyuan Deng*, Mengyu Xu*, Jiale Liu, Hongyang Zhang, Qiaoxin Yang, <b>Chongyang Gao†</b></span>
     <span class="venue venue--preprint">Preprint</span>
   </li>
 </ul>
