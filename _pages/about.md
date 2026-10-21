@@ -140,11 +140,11 @@ Publications
 
 Mentoring
 ------
-<p class="list-note">† corresponding author</p>
+<p class="list-note">* equal contribution &nbsp;·&nbsp; † corresponding author</p>
 <ul class="pub-list">
   <li>
     <span class="pub-title">MIRA: A Bilingual Benchmark for Medical Information Response Audit</span>
-    <span class="pub-authors">Mengyu Xu, Qiaoxin Yang, Qianqian Wang, Xiwei Dai, Weiyi Wu, <b>Chongyang Gao†</b></span>
+    <span class="pub-authors">Mengyu Xu*, Qiaoxin Yang*, Qianqian Wang, Xiwei Dai, Weiyi Wu, <b>Chongyang Gao†</b></span>
     <span class="venue">EMNLP 2026 (Main)</span>
   </li>
   <li>
