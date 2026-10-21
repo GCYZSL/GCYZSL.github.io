@@ -154,7 +154,7 @@ Mentoring
   </li>
   <li>
     <span class="pub-title">Suppressing Pressure, Amplifying Evidence: Self-Guided Attention Steering to Mitigate Sycophancy and Stubbornness</span>
-    <span class="pub-authors">Yinghao He, Mengyu Xu, Haixiang Sun, Donghan Li, Yibo Wang, Lixu Wang, Kezhen Chen, Chi Li, Chunwei Liu, Bharat Bhargava, <b>Chongyang Gao†</b></span>
+    <span class="pub-authors">Yinghao He*, Mengyu Xu*, Haixiang Sun, Donghan Li, Yibo Wang, Lixu Wang, Kezhen Chen, Chi Li, Chunwei Liu, Bharat Bhargava, <b>Chongyang Gao†</b></span>
     <span class="venue venue--preprint">Preprint</span>
   </li>
   <li>
