@@ -8,36 +8,173 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Northwestern University supervised by [Prof. V.S. Subrahmanian](https://vssubrah.github.io/). I received my Bachelor's degree from Tianjin University and master's degree from Dartmouth College, supervised by Prof. Soroush Vosoughi. I was a visiting student at NTU supervised by Prof. Jianfei Cai. I am interested in computer vision, NLP, V-L Tasks, and multimodal data processing. 
-Here is my [Curriculum Vitae (CV)](/assets/Chongyang_Gao_CV.pdf).
+I am a Ph.D. student in Computer Science at Northwestern University, advised by [Prof. V.S. Subrahmanian](https://vssubrah.github.io/). I received my M.S. from Dartmouth College, advised by Prof. Soroush Vosoughi, and my B.E. from Tianjin University. I was also a visiting student at Nanyang Technological University with Prof. Jianfei Cai. My research interests include large language models, computer vision, natural language processing, vision-language tasks, and multimodal learning.
+
+<div class="contact-note">
+I am always happy to collaborate and mentor students. Feel free to reach out at <a href="mailto:chongyanggao2026@u.northwestern.edu">chongyanggao2026@u.northwestern.edu</a>.
+</div>
+
+Industry Experience
+------
+<ul class="exp-list">
+  <li><span>Student Researcher, <b>Google DeepMind</b></span><span class="exp-date">Jul. 2025 – Dec. 2025</span></li>
+  <li><span>Research Scientist Intern, <b>Google X</b></span><span class="exp-date">Jun. 2023 – Feb. 2024</span></li>
+  <li><span>Research Scientist Intern, <b>Adobe Research</b></span><span class="exp-date">Mar. 2023 – Jun. 2023</span></li>
+</ul>
 
 Publications
 ------
-* "Classroom Final Exam: An Instructor-Tested Reasoning Benchmark", **Chongyang Gao**,  Diji Yang, Shuyan Zhou, Xichen Yan, Luchuan Song, Shuo Li, Kezhen Chen. <i>Preprint.
-* "Context and Transcripts Improve Detection of Deepfake Audios of Public Figures", **Chongyang Gao**,  Marco Postiglione, Julian Baldwin, Natalia Denisenko, Isabel Gortner, Luke Fosdick, Chiara Pulice, Sarit Kraus, VS Subrahmanian. <i>Preprint.
-* "Perturbed Public Voices (PV): A Dataset for Robust Audio Deepfake Detection", **Chongyang Gao**, Marco Postiglione, Isabel Gortner, Sarit Kraus, V.S. Subrahmanian. <i>Preprint.
-* "On Large Language Model Continual Unlearning", **Chongyang Gao\***,  Lixu Wang\*, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu. <i>ICLR 2025.
-* "MoLA: MoE LoRA with Layer-wise Expert Allocation", **Chongyang Gao**, Kezhen Chen, Jinmeng Rao, Ruibo Liu, Baochen Sun, Yawen Zhang, Daiyi Peng, Xiaoyuan Guo, VS Subrahmanian. <i>NAACL 2025 (Findings).
-* "Assessing and Mitigating Medical Knowledge Drift and Conflicts in Large Language Models", Weiyi Wu, Xinwen Xu, **Chongyang Gao**, Xingjian Diao, Siting Li, Lucas A. Salas, Jiang Gu. <i>EMNLP 2025 (Findings).
-* "GEM: Generating Engaging Multimodal Content", **Chongyang Gao**, Yiren Jian, Natalia Denisenko, Soroush Vosoughi, VS Subrahmanian. <i>IJCAI 2024.
-* "FakeDB: Generating Fake Synthetic Databases", **Chongyang Gao**, Sushil Jajodia, Andrea Pugliese, VS Subrahmanian. <i>IEEE Transactions on Dependable and Secure Computing.
-* "Bootstrapping Vision-Language Learning with Decoupled Language Pre-training", Yiren Jian, **Chongyang Gao**, Soroush Vosoughi. <i>NeurIPS 2023 $$\color{red}{Spotlight}$$.
-* "Non-Linguistic Supervision for Contrastive Learning of Sentence Embeddings", Yiren Jian\*, **Chongyang Gao\***, Soroush Vosoughi. <i>NeurIPS 2022.
-* "Embedding Hallucination for Few-Shot Language Fine-tuning", Yiren Jian\*, **Chongyang Gao\***, Soroush Vosoughi. <i>NAACL 2022.
-* "Contrastive Learning for Prompt-Based Few-Shot Language Learners", Yiren Jian, **Chongyang Gao**, Soroush Vosoughi. <i>NAACL 2022.
-* "Non-Parallel Text Style Transfer with Self-Parallel Supervision", Ruibo Liu, **Chongyang Gao**, Chenyan Jia, Guangxuan Xu, Soroush Vosoughi. <i>ICLR 2022.
-* "Knowledge Infused Decoding", Ruibo Liu, Guoqing Zheng, Shashank Gupta, Radhika Gaonkar, **Chongyang Gao**, Soroush Vosoughi, Milad Shokouhi, Ahmed Hassan Awadallah.  <i>ICLR 2022.
-* "MetaPix: Domain transfer for semantic segmentation by meta pixel weighting", Yiren Jian\*, **Chongyang Gao\***. <i>Image and Vision Computing 2021.
-* "Auto-Parsing Network for Image Captioning and Visual Question Answering", Xu Yang\*, **Chongyang Gao\***, Hanwang Zhang, and Jianfei Cai. <i>Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021.
-* "Embedding heterogeneous networks into hyperbolic space without meta-path", Wang, Lili, **Chongyang Gao**, Chenghan Huang, Ruibo Liu, Weicheng Ma, and Soroush Vosoughi. <i>In Proceedings of the AAAI conference on artificial intelligence 2021.
-* "Hierarchical Scene Graph Encoder-Decoder for Image Paragraph Captioning", Xu Yang\*, **Chongyang Gao\***, Hanwang Zhang, Jianfei Cai, <i>Proceedings of the 28th ACM International Conference on Multimedia 2020.
-* "An Empirical Survey of Unsupervised Text Representation Methods on Twitter Data", Lili Wang, **Chongyang Gao**, Jason Wei, Weicheng Ma, Ruibo Liu, Soroush Vosoughi. <i>Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020).
-* "Sequence in sequence for video captioning", Huiyun Wang, **Chongyang Gao**, Yahong Han, Pattern Recognition Letters 2020.
+<p class="list-note">* equal contribution</p>
+<ul class="pub-list">
+  <li>
+    <span class="pub-title">FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents</span>
+    <span class="pub-authors">Tianyou Wang*, <b>Chongyang Gao*</b>, Kezhen Chen, Dong Chen, Yinghao He, Donghan Li, Wangcheng Xu, Hongjiu Zhang, Chi Li</span>
+    <span class="venue venue--preprint">Preprint</span>
+  </li>
+  <li>
+    <span class="pub-title">Classroom Final Exam: An Instructor-Tested Reasoning Benchmark</span>
+    <span class="pub-authors"><b>Chongyang Gao</b>, Diji Yang, Shuyan Zhou, Xichen Yan, Luchuan Song, Shuo Li, Kezhen Chen</span>
+    <span class="venue venue--preprint">Preprint</span>
+  </li>
+  <li>
+    <span class="pub-title">Context and Transcripts Improve Detection of Deepfake Audios of Public Figures</span>
+    <span class="pub-authors"><b>Chongyang Gao</b>, Marco Postiglione, Julian Baldwin, Natalia Denisenko, Isabel Gortner, Luke Fosdick, Chiara Pulice, Sarit Kraus, V.S. Subrahmanian</span>
+    <span class="venue venue--preprint">Preprint</span>
+  </li>
+  <li>
+    <span class="pub-title">SafePro: Generation of Safe and Functional Proteins via Cross-Task Conflict-Aware Alignment</span>
+    <span class="pub-authors"><b>Chongyang Gao</b>, Marco Postiglione, V.S. Subrahmanian</span>
+    <span class="venue">NeurIPS 2026</span>
+  </li>
+  <li>
+    <span class="pub-title">Perturbed Public Voices (P2V): A Dataset for Robust Audio Deepfake Detection</span>
+    <span class="pub-authors"><b>Chongyang Gao</b>, Marco Postiglione, Isabel Gortner, Sarit Kraus, V.S. Subrahmanian</span>
+    <span class="venue">KDD 2026</span>
+  </li>
+  <li>
+    <span class="pub-title">On Large Language Model Continual Unlearning</span>
+    <span class="pub-authors"><b>Chongyang Gao*</b>, Lixu Wang*, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu</span>
+    <span class="venue">ICLR 2025</span>
+  </li>
+  <li>
+    <span class="pub-title">MoLA: MoE LoRA with Layer-wise Expert Allocation</span>
+    <span class="pub-authors"><b>Chongyang Gao</b>, Kezhen Chen, Jinmeng Rao, Ruibo Liu, Baochen Sun, Yawen Zhang, Daiyi Peng, Xiaoyuan Guo, V.S. Subrahmanian</span>
+    <span class="venue">NAACL 2025 (Findings)</span>
+  </li>
+  <li>
+    <span class="pub-title">Assessing and Mitigating Medical Knowledge Drift and Conflicts in Large Language Models</span>
+    <span class="pub-authors">Weiyi Wu, Xinwen Xu, <b>Chongyang Gao</b>, Xingjian Diao, Siting Li, Lucas A. Salas, Jiang Gu</span>
+    <span class="venue">EMNLP 2025 (Findings)</span>
+  </li>
+  <li>
+    <span class="pub-title">GEM: Generating Engaging Multimodal Content</span>
+    <span class="pub-authors"><b>Chongyang Gao</b>, Yiren Jian, Natalia Denisenko, Soroush Vosoughi, V.S. Subrahmanian</span>
+    <span class="venue">IJCAI 2024</span>
+  </li>
+  <li>
+    <span class="pub-title">FakeDB: Generating Fake Synthetic Databases</span>
+    <span class="pub-authors"><b>Chongyang Gao</b>, Sushil Jajodia, Andrea Pugliese, V.S. Subrahmanian</span>
+    <span class="venue">IEEE Transactions on Dependable and Secure Computing</span>
+  </li>
+  <li>
+    <span class="pub-title">Bootstrapping Vision-Language Learning with Decoupled Language Pre-training</span>
+    <span class="pub-authors">Yiren Jian, <b>Chongyang Gao</b>, Soroush Vosoughi</span>
+    <span class="venue">NeurIPS 2023</span><span class="venue venue--award">Spotlight</span>
+  </li>
+  <li>
+    <span class="pub-title">Non-Linguistic Supervision for Contrastive Learning of Sentence Embeddings</span>
+    <span class="pub-authors">Yiren Jian*, <b>Chongyang Gao*</b>, Soroush Vosoughi</span>
+    <span class="venue">NeurIPS 2022</span>
+  </li>
+  <li>
+    <span class="pub-title">Embedding Hallucination for Few-Shot Language Fine-tuning</span>
+    <span class="pub-authors">Yiren Jian*, <b>Chongyang Gao*</b>, Soroush Vosoughi</span>
+    <span class="venue">NAACL 2022</span>
+  </li>
+  <li>
+    <span class="pub-title">Contrastive Learning for Prompt-Based Few-Shot Language Learners</span>
+    <span class="pub-authors">Yiren Jian, <b>Chongyang Gao</b>, Soroush Vosoughi</span>
+    <span class="venue">NAACL 2022</span>
+  </li>
+  <li>
+    <span class="pub-title">Non-Parallel Text Style Transfer with Self-Parallel Supervision</span>
+    <span class="pub-authors">Ruibo Liu, <b>Chongyang Gao</b>, Chenyan Jia, Guangxuan Xu, Soroush Vosoughi</span>
+    <span class="venue">ICLR 2022</span>
+  </li>
+  <li>
+    <span class="pub-title">Knowledge Infused Decoding</span>
+    <span class="pub-authors">Ruibo Liu, Guoqing Zheng, Shashank Gupta, Radhika Gaonkar, <b>Chongyang Gao</b>, Soroush Vosoughi, Milad Shokouhi, Ahmed Hassan Awadallah</span>
+    <span class="venue">ICLR 2022</span>
+  </li>
+  <li>
+    <span class="pub-title">MetaPix: Domain Transfer for Semantic Segmentation by Meta Pixel Weighting</span>
+    <span class="pub-authors">Yiren Jian*, <b>Chongyang Gao*</b></span>
+    <span class="venue">Image and Vision Computing 2021</span>
+  </li>
+  <li>
+    <span class="pub-title">Auto-Parsing Network for Image Captioning and Visual Question Answering</span>
+    <span class="pub-authors">Xu Yang*, <b>Chongyang Gao*</b>, Hanwang Zhang, Jianfei Cai</span>
+    <span class="venue">ICCV 2021</span>
+  </li>
+  <li>
+    <span class="pub-title">Embedding Heterogeneous Networks into Hyperbolic Space Without Meta-path</span>
+    <span class="pub-authors">Lili Wang, <b>Chongyang Gao</b>, Chenghan Huang, Ruibo Liu, Weicheng Ma, Soroush Vosoughi</span>
+    <span class="venue">AAAI 2021</span>
+  </li>
+  <li>
+    <span class="pub-title">Hierarchical Scene Graph Encoder-Decoder for Image Paragraph Captioning</span>
+    <span class="pub-authors">Xu Yang*, <b>Chongyang Gao*</b>, Hanwang Zhang, Jianfei Cai</span>
+    <span class="venue">ACM MM 2020</span>
+  </li>
+  <li>
+    <span class="pub-title">An Empirical Survey of Unsupervised Text Representation Methods on Twitter Data</span>
+    <span class="pub-authors">Lili Wang, <b>Chongyang Gao</b>, Jason Wei, Weicheng Ma, Ruibo Liu, Soroush Vosoughi</span>
+    <span class="venue">W-NUT 2020</span>
+  </li>
+  <li>
+    <span class="pub-title">Sequence in Sequence for Video Captioning</span>
+    <span class="pub-authors">Huiyun Wang, <b>Chongyang Gao</b>, Yahong Han</span>
+    <span class="venue">Pattern Recognition Letters 2020</span>
+  </li>
+</ul>
 
+Mentoring
+------
+<p class="list-note">† corresponding author</p>
+<ul class="pub-list">
+  <li>
+    <span class="pub-title">MIRA: A Bilingual Benchmark for Medical Information Response Audit</span>
+    <span class="pub-authors">Mengyu Xu, Qiaoxin Yang, Qianqian Wang, Xiwei Dai, Weiyi Wu, <b>Chongyang Gao†</b></span>
+    <span class="venue">EMNLP 2026 (Main)</span>
+  </li>
+  <li>
+    <span class="pub-title">Beyond the Expression Barrier: Negotiating Support Needs with Stage-Aware Supportive AI in CBT-Inspired Conversations</span>
+    <span class="pub-authors">Mengyu Xu, Jiale Liu, Qiaoxin Yang, Kairui Sun, Runze Li, <b>Chongyang Gao†</b></span>
+    <span class="venue">CSCW 2026 Companion (Poster)</span>
+  </li>
+  <li>
+    <span class="pub-title">Suppressing Pressure, Amplifying Evidence: Self-Guided Attention Steering to Mitigate Sycophancy and Stubbornness</span>
+    <span class="pub-authors">Yinghao He, Mengyu Xu, Haixiang Sun, Donghan Li, Yibo Wang, Lixu Wang, Kezhen Chen, Chi Li, Chunwei Liu, Bharat Bhargava, <b>Chongyang Gao†</b></span>
+    <span class="venue venue--preprint">Preprint</span>
+  </li>
+  <li>
+    <span class="pub-title">Equitable System-Prompt Selection via Constrained Mixed-Strategy GroupDRO</span>
+    <span class="pub-authors">Mengyu Xu, Qiaoxin Yang, Zhihan Liu, Ruiyao Xu, Zachary Liu, Kezhen Chen, <b>Chongyang Gao†</b></span>
+    <span class="venue venue--preprint">Preprint</span>
+  </li>
+  <li>
+    <span class="pub-title">Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models</span>
+    <span class="pub-authors">Shuyi Fan, Boyuan Deng, Mengyu Xu, Jiale Liu, Hongyang Zhang, Qiaoxin Yang, <b>Chongyang Gao†</b></span>
+    <span class="venue venue--preprint">Preprint</span>
+  </li>
+</ul>
 
 Services
 ------
-Reviewer for NeurIPS, ICML, ICLR, AAAI, IJCAI, ACL, EMNLP, CVPR, ECCV, ACM MM, WACV, CoLM, CoNLL, IJCV, IEEE TCSVT, IEEE Multimedia.
+Reviewer / PC member for:
+<ul class="chip-list">
+  <li>ACL</li><li>AAAI</li><li>IJCAI</li><li>ICML</li><li>NeurIPS</li><li>ICLR</li><li>EMNLP</li><li>CVPR</li><li>ECCV</li><li>AISTATS</li><li>ACM MM</li><li>WACV</li><li>COLM</li><li>CoNLL</li><li>IJCV</li><li>IEEE TCSVT</li><li>IEEE Multimedia</li><li>TMLR</li>
+</ul>
 
 {% comment %} 
 (This is the front page of a website that is powered by the [academicpages template]&#40;https://github.com/academicpages/academicpages.github.io&#41; and hosted on GitHub pages. [GitHub pages]&#40;https://pages.github.com&#41; is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme]&#40;https://mmistakes.github.io/minimal-mistakes/&#41; created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository]&#40;https://github.com/academicpages/academicpages.github.io&#41; right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com]&#40;http://stuartgeiger.com&#41;, which uses [this Github repository]&#40;https://github.com/staeiou/staeiou.github.io&#41;.)

@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chongyang Gao"
   avatar           : "portfolio.jpg"
-  bio              : "Chongyanggao2026@u.northwestern.edu"
-  location         : "Evanston"
+  bio              : "Ph.D. Student in Computer Science @ Northwestern University"
+  location         : "Evanston, IL"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=HEAgatAAAAAJ"
-  email            :
+  email            : "chongyanggao2026@u.northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
