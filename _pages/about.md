@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at Northwestern University, advised by [Prof. V.S. Subrahmanian](https://vssubrah.github.io/). I received my M.S. from Dartmouth College, advised by Prof. Soroush Vosoughi, and my B.E. from Tianjin University. I was also a visiting student at Nanyang Technological University with Prof. Jianfei Cai. My research interests include large language models, computer vision, natural language processing, vision-language tasks, and multimodal learning.
+I am a Ph.D. student in Computer Science at Northwestern University, advised by [Prof. V.S. Subrahmanian](https://vssubrah.github.io/). I received my M.S. from Dartmouth College, advised by Prof. Soroush Vosoughi, and my B.E. from Tianjin University. I was also a visiting student at Nanyang Technological University with Prof. Jianfei Cai. My research interests include large language models, agents, computer vision, natural language processing, vision-language tasks, and multimodal learning.
 
 <div class="contact-note">
 I am always happy to collaborate and mentor students. Feel free to reach out at <a href="mailto:chongyanggao2026@u.northwestern.edu">chongyanggao2026@u.northwestern.edu</a>.
