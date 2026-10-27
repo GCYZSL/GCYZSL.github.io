@@ -171,6 +171,11 @@ Mentoring
 
 Services
 ------
+Area Chair for:
+<ul class="chip-list">
+  <li>ACL ARR</li>
+</ul>
+
 Reviewer / PC member for:
 <ul class="chip-list">
   <li>ACL</li><li>AAAI</li><li>IJCAI</li><li>ICML</li><li>NeurIPS</li><li>ICLR</li><li>EMNLP</li><li>CVPR</li><li>ECCV</li><li>AISTATS</li><li>ACM MM</li><li>WACV</li><li>COLM</li><li>CoNLL</li><li>IJCV</li><li>IEEE TCSVT</li><li>IEEE Multimedia</li><li>TMLR</li>
